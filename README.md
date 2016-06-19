@@ -1,2 +1,2 @@
 # App-idea-1
-Team project
+Motor vehicle accident reporter app
