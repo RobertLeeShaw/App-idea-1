@@ -1,2 +1,2 @@
 # App-idea-1
-Motor vehicle accident reporter app
+Motor vehicle incident reporter app
